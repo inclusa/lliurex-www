@@ -1,0 +1,17 @@
+{
+    "linkid":"share",
+    "link":"http://172.24.162.254/share/pmb-doc",
+    "icon":"pmb_doc.png",
+    "fonticon":"icon-folder-close-alt",
+    "type": "resources",
+    "name": {
+        "default":"PMB Documentation",
+        "valencia":"Documentació PMB",
+        "es":"Documentación PMB"
+    },
+    "description": {
+        "default":"PMB Documentation",
+        "valencia":"Documentació PMB",
+        "es":"Documentación PMB"
+    }
+}

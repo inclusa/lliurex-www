@@ -1,0 +1,17 @@
+{
+    "linkid":"admin-center",
+    "link":"http://172.24.162.254/admin-center",
+    "icon":"admincenter.png",
+    "fonticon":"icon-folder-close-alt",
+    "type": "admin",
+    "name": {
+        "default":"AdminCenter",
+        "valencia":"AdminCenter",
+        "es":"AdminCenter"
+    },
+    "description": {
+        "default":"AdminCenter Description",
+        "valencia":"AdminCenter Description",
+        "es":"AdminCenter Description"
+    }
+}
